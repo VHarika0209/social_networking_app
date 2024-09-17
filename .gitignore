@@ -1,0 +1,21 @@
+# Ignore the .env file
+.env
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Django
+*.log
+
+# Virtual environment
+social_network_api_env/
+
+# Docker
+mysql_data/
+
+# IDEs
+.vscode/
+.idea/
